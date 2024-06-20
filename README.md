@@ -21,8 +21,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/bishwjeet7](https://github.com/bishwjeet7)
 
-- 📝 I regularly write articles on [codingsolution.in](codingsolution.in)
-
 - 💬 Ask me about **C, C++, C#, Python, HTML, CSS, JavaScript, SQL, DBMS,React, JQuery**
 
 - 📫 How to reach me **contact@bishwjeet.in**
